@@ -1,0 +1,18 @@
+# CVS $Revision: $ $Author: $ -- Fri Jun 17 21:51:56 2016 -- reformated by PCGen PrettyLST v6.06.00
+SOURCELONG:Distant Realms	SOURCESHORT:DR	SOURCEWEB:http://paizo.com/products/btpy8mfs?Pathfinder-Campaign-Setting-Distant-Realms	SOURCEDATE:2018-06
+
+###Block: Feats
+# Feat Name					Category		Type				Prereqs																		Description																		Sourcepage		Benefit
+# Ability Name		Category of Ability	Type				Required Ability								Multiple Requirements																Description																		Source Page		Benefits
+Magic Trick				CATEGORY:FEAT		TYPE:General																																																														PRETEXT:Ability to cast the chosen spell or spell-like ability.																																																																																					DESC:You understand how to manipulate a spell or ability beyond its typical uses.							STACK:NO	MULT:YES	CHOOSE:ABILITY|Special Ability|TYPE=MagicTrick																																																																																									SOURCEPAGE:p.61	BENEFIT:You can use any magic tricks relating to the chosen spell so long as you meet the appropriate magic trick requirements.
+#Equipment Trick				CATEGORY:FEAT		TYPE:Combat																																																														PRETEXT:Base attack bonus +1.																									PRETOTALAB:1																																																											DESC:You understand how to use a certain item in combat.							STACK:NO	MULT:YES	CHOOSE:ABILITY|Special Ability|TYPE=EquipmentTrick																																																																																									SOURCEPAGE:p.2	BENEFIT:You may use any equipment tricks relating to the item if you meet the appropriate trick requirements. If the item would normally be considered an improvised weapon, you may treat it as a normal weapon or an improvised weapon, whichever is more beneficial for you. You can gain the Equipment Trick feat multiple times. Each time you take the feat, it applies to a new type of equipment.
+
+###Block: Feat MODs
+# Feat Name					Bonus Ability Pool
+# Ability Name						Type
+
+
+
+#
+# End
+#
