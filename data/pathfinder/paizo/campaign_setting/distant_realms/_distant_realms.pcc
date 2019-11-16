@@ -44,6 +44,7 @@ COPYRIGHT:PCGen dataset conversion for "Pathfinder Campaign Setting: Distant Rea
 
 # Data Files
 ABILITY:dr_abilities.lst
+ABILITY:dr_abilities_class.lst
 #EQUIPMENT:dr_equip.lst
 ABILITY:dr_feats.lst
 #KIT:dr_kits.lst
